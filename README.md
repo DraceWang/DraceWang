@@ -12,8 +12,8 @@
 
 
 
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Drace+Wang;+Welcome!+Let's+learn+newthings+together+🎉+🎉+🎉)](https://git.io/typing-svg)
+<!--   my-ticker -->   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Drace+Wang;+Welcome!+Let's+learn+newthings+together+🎉+🎉+🎉)](https://git.io/typing-svg)
 
 
 
@@ -36,9 +36,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![DraceWnag's github stats](https://github-readme-stats.vercel.app/api?username=DraceWang&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DraceWang&theme=radical&layout=compact) |
 
-<center>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DraceWang" ></img>
-</center>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DraceWang)
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
